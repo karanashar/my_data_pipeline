@@ -1,5 +1,5 @@
 # My data pipeline - Classification
-<p>This is a generalized Machine Learning Pipeline for Classification tasks.
+<p>This is a generalized Machine Learning Pipeline for <br>Classification tasks</br>.
 Any dataset can be processed via this pipeline.<br> All one has to do is write code to pre-process the data. For example - Remove columns, Fill missing values etc.
   <br> <b>Note</b> - The pipeline is mainly intended to work for datasets with numerical and binary features only. Categorical features can be handled using some extra effort 
 
